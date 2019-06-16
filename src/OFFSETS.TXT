@@ -1,0 +1,44 @@
+     gus.mse  : 50
+    sb16.mse  : 12328
+   sbpro.mse  : 23744
+    sb2x.mse  : 35311
+   start.gdm  : 45758
+      b1.raw  : 392822
+      b2.raw  : 425590
+mapfile1.bin  : 458358
+mapfile2.bin  : 522358
+picture1.pcx  : 586358
+picture2.pcx  : 640645
+ object1.bin  : 704462
+  obj1_n.bin  : 763766
+   x_moe.pcx  : 798590
+ object2.bin  : 811739
+  obj2_n.bin  : 830175
+ object3.bin  : 838367
+  obj3_n.bin  : 869667
+ rawfile.raw  : 887059
+ object4.bin  : 951059
+  obj4_n.bin  : 960291
+ object8.bin  : 966435
+  obj8_n.bin  : 982741
+    p5_b.raw  : 1052179
+  greets.raw  : 1116179
+ object6.bin  : 1124179
+  obj6_n.bin  : 1141067
+   xenon.raw  : 1214975
+ object7.bin  : 1222975
+  obj7_n.bin  : 1237853
+     prx.raw  : 1304327
+ object9.bin  : 1312327
+  obj9_n.bin  : 1323023
+    spin.raw  : 1375331
+ object5.bin  : 1383331
+  obj5_n.bin  : 1396391
+infernal.raw  : 1456295
+mapfile3.bin  : 1464295
+rawfile2.raw  : 1528295
+mapfile4.bin  : 1593830
+rawfile3.raw  : 1657830
+   shade.bin  : 1721830
+  theend.raw  : 1753830
+    main.gdm  : 1785830

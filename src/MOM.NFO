@@ -1,0 +1,149 @@
+
+                 ------------- Mind over Matter ---------------
+
+                             a production by
+                           The Lost Souls 1996
+
+                 Released for the Gathering '96 democompo
+
+
+[ REQUIREMENTS ]
+
+- 386  :)
+- EMS
+- 600kb conventional memory
+
+     The demo is tested with several memory configurations, and it seems
+like it works fine with both EMM386, QEMM, and so on. If you run it from
+Windows 95, just sit back and watch your computer explode. There might be a
+problem with the soundcard autodection, but just make sure the BLASTER or
+ULTRASND variables are right, and correspond with your soundcard's setup.
+You'll also need EMS for the samples.
+
+PS: There are no testing for enough basemem available, as the demo requires
+widely different amounts for GUS (almost 600k), SB16 (580k) and NoSound
+(450k).
+
+
+[ DISCLAIMER ]
+(You know this...)
+
+     You run this program at your own risk, and we don't take any
+responsability for any loss or damage of data caused by this program.
+     This product is freeware and can be freely distributed in it's original
+form, and as long as no payment is charged. No commercial use can be performed
+without our personal and written permission.
+
+
+[ DETAILED CREDITS ]
+
+     Rex Rawhead    :    "TLS" - logo
+                         "Mind over Matter" - logo
+                         Gluckasil - object
+                         Bell - object
+                         Musical - object
+
+     Kezoomer       :    All music
+                         Telephone
+                         Wooden cheese background
+
+     Cyberfish      :    All coding
+                         Q-background
+                         Torus   (Impressing...)
+                         Blob (Even more impressing...)
+
+     Edward         :    Player
+
+
+[ CODERS COMMENT (?) ]
+
+     Don't bother mail us about how slow and lousy the code is, as we already
+know. Up to a few weeks ago, I had never heard about pipelines, AGI's and
+so on. Why? Because noone ever told me... (...and I'm stuck in a stupid valley
+in Norway without any contact with other coders...)  My sourcecodes are also
+starting to look like spagetti, and I'm totally out of control.
+     Hmm... I've got a message for some guys out there; Last year, someone
+called Kezoomer and asked if we could help them with some Pascal-stuff. I'm
+very sorry we haven't sent you anything! We actually made something for you,
+but your adress disappeared. Just call us again, or send an e-mail to one
+of us. (I'm really sorry!)
+BTW; Thanks to Voltaire/OTM for his nice docs on sorting and phongshading,
+     and Edward Schlunder for his player. (There are some nasty bugs in there,
+     Edward! :)
+
+
+[ KEZOOMER TYPES ]
+
+Many people say that music probably is the easiest part of a larger demo, and
+that "anyone" can make that music... THAT IS NOT TRUE! It might be the easiest
+part, but is not EASY in any way... The coders wishes and demands rarely
+match with the composers, but as the coders have the power, they decide what's
+best.. (Even if it isn't!). "We need a swoooop here. Can you shorten that part
+a bit? More bass please. Less bass please. Why do you use all those
+channels,man?"...And so on... Drives me nuts... (And fuck that player we use...
+It generally sucks, and portamento doesn't work... arrrrrrrrrrgh!)
+Ofcourse "anyone" can make music... "Anyone" can paint pictures. "Anyone" can
+form sculptures. "Anyone" can play the piano. "Anyone" can make a movie.
+I bet you understand what I mean, right?
+
+
+[ BETATESTERS ]
+
+     SuperNils
+     Fruden
+     Flintstone
+     White Spirit
+     NTNU
+
+
+[ PERSONAL MESSAGES ]
+
+Cyberfish greets...
+    Allanon /Depth
+    Paithan /Depth
+    LunkWill /?
+    Axon /Xenon
+    Hobbes /Xenon
+    Ghoul /Xenon
+    White Spirit /Infernal
+
+Rawhead greets...
+    [daz]
+    MidiHell
+    Ogabe
+    SirBolle
+    _-cola-_
+
+    All of these people are friends of mine on IRC, and they all helped me
+    with this and that.
+    Since I'm already typing here i would like to thank the people at adobe
+    for a great program (Adobe Photoshop). I would like to thank Kai for his
+    hints and tips. I would like to thank the people behind 3D-Studio
+    (surprise!! :D) That's about it.
+
+    Contact me at geiras@ifi.unit.no (specially if you wanna give me a SGI :))
+
+Kezoomer greets...
+
+    White Spirit / Infernal
+    saracen / EMF
+    Reward / Complex
+    Jugi / Complex
+    Sandman / Valhalla
+    Juggler / Xtacy
+    ZauRon / iRS
+    Gloom / ?
+    Caramel / ?
+    Calvin / Proxima
+    Flintstone / Sliver
+    Trixter / Hornet
+    Snowman / Hornet
+    Duncan / ???
+    BugBoy / LRU
+    Leinad / ???
+
+    Lots of strange people to whom I send greetings for different reasons...
+    Also a grand hello to all IRC-junkies on #europe, #coders and #tg96.
+    Oh, btw:
+    MAIL ME! I looove e-mail!
+    kristier@ifi.unit.no

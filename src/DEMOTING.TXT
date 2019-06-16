@@ -1,0 +1,66 @@
+--------- Part1
+size = 230k
+t =< 1min
+music = magisk startmusikk med masse pussige/snedige lydeffekter/stereo
+
+ * font                 GAS
+ * logo/demonavn        GAS
+ * musikk               KE
+
+Tekst :
+proudly presents
+a contribution to
+the gathering
+'96
+
+navn = "mind over matter"
+
+
+--------- Part2 - ku
+size = 100k
+t < 30sek
+music = ?
+ * ku (180 farger)
+ * bakgrunn?            GAS
+ ..fade ut bakgrunn og ku
+
+
+--------- Part3 - gele/syre
+size = 60k
+t = 1min
+music = groovy :)
+ * gluckasil/alternativ torus + et til          GAS/KE
+ * to/tre objekt
+
+
+--------- Part4 - vraenge
+size = 60k
+t > 30sek
+ * objekt               GAS/KE
+ * -> linjeting
+
+
+--------- Part5 - pang/zoom
+size = 100-150k
+t = 45sek/30sek = ca 1min
+muzak = liten rave-> hihaaa rave
+ ..fade inn bakgrunn
+ * knusedel
+ * zoomerting + flasja-flasja (invertering av paletten/gr†toner + greetings)
+
+
+pangting (en dunge objekt), bakgrunn (166 farger), glassknuselyder
+-> zoomerting, objekt som knuses men bygges opp igjen, musikk stopper,
+g†r baklengs, st›ystreker
+
+ * bakgrunn                             GAS/KE
+ * masse objekt, evt. knuselige ting som flasker, vaser, lysp‘rer osv... GAS/KE
+
+
+Part6 - sluttdelgreis?
+
+greetings :
+xenon
+proxima
+spin
+

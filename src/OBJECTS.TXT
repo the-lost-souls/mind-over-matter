@@ -1,0 +1,71 @@
+Object1.bin     COW
+Vertices = 3112
+Faces = 5804
+
+Offs            Description
+-------------------------------
+0               NumOfVertexes
+2               Coords
+18674           NumOfFaces
+18676           Faces
+
+
+Object2.bin     TORUS
+Vertices = 1024
+Faces = 2048
+Size = 18436
+
+Offs            Description
+-------------------------------
+0               NumOfVertexes
+2               Coords
+6146            NumOfFaces
+6148            Faces
+
+
+Object3.bin     GLUCKASIL
+Vertices = 1740
+Faces = 3476
+Size = 31300
+
+Offs            Description
+-----------------------------
+0               NumOfVertexes
+2               Coords
+10442           NumOfFaces
+10444           Faces
+
+
+Object4.bin     Blobby
+Vertices = 514
+Faces = 1024
+Size = 9232
+
+Offs            Description
+-----------------------------
+0               NumOfVertexes
+2               Coords
+3086            NumOfFaces
+3088            Faces
+
+
+Object4.bin     Nuts
+Vertices = 724
+Faces = 14552
+Size = 13060
+
+Offs            Description
+-----------------------------
+0               NumOfVertexes
+2               Coords
+4346            NumOfFaces
+4348            Faces
+
+Obj4_n.bin
+Size = 47904
+
+Offs            Description
+-----------------------------
+0               NormalVectors
+4344            SinglePolys (43560 bytes)
+

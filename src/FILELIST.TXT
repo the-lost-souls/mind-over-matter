@@ -1,0 +1,37 @@
+TLS:                       "MIND OVER MATTER"
+
+FileList:
+
+Part1 :
+ * p1          .asm               : main program file
+ * b1          .raw     32000     : first picture file for plasma
+ * b2          .raw     32000     : second picture file for plasma
+ * picture1    .pcx     36026     : TLS-logo
+ * mapfile1    .bin     64000     : 3D-mapping offsets (upper half)
+ * mapfile2    .bin     64000     : 3D-mapping offsets (lower half)
+ * picture2    .pcx               : Demologo. Not finish.
+
+---------------------- 228026
+
+Part2 :
+ * p2          .asm               : main program file
+ * p2_b        .raw     64000     : background picture (to be compressed)
+ * object1     .bin     59304     : vectorobject, cow
+ * obj1_n      .bin     34824     : normals for vectorobject
+
+---------------------- 158128
+
+Part3 :
+ * p3          .asm               : main program file
+ * rawfile     .raw     64000     : 32 color background (to be compressed?)
+ * object2     .bin     18436     : vectorobject, torus
+ * obj2_n      .bin      8192     : normals and lengths for torus
+ * object3     .bin     31300     : vectorobject, gluckasil
+ * obj3_n      .bin     17392     : normals and lengths for gluckasil
+
+---------------------- 139320
+
+Part4 :
+ * p4          .asm
+ * object4     .bin      9232     : vectorobject, blob
+ * obj4_n      .bin      6144     : normals for blob

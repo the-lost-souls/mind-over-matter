@@ -1,0 +1,3 @@
+* The demo sometimes produces a EMM386-error when run after exiting Windows.
+* God knows what happens if you try to run it from W95 ?!? Nothing good,
+I guess.
